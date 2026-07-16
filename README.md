@@ -1,6 +1,6 @@
-﻿# GSPA Reconcept (Simplified)
+﻿# GSPA Reconcept.
 
-Este proyecto es un **reconcepto muy simplificado** de la pagina web de la Galleria dell'Accademia di Firenze.
+Este proyecto es un reconcepto muy simplificado de la pagina web de la Galleria dell'Accademia di Firenze.
 
 El objetivo no es replicar el sitio real, sino proponer una version visual ligera con enfoque en:
 - narrativa visual,
