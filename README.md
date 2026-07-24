@@ -5,7 +5,7 @@ Este proyecto es un reconcepto muy simplificado de la pagina web de la Galleria 
 El objetivo no es replicar el sitio real, sino proponer una version visual ligera con enfoque en:
 - narrativa visual,
 - animaciones al hacer scroll,
-- y una estructura de codigo mas mantenible.
+- y una estructura de codigo más mantenible.
 
 ## Alcance del proyecto
 
@@ -56,7 +56,7 @@ No requiere build ni instalacion de dependencias.
 
 ## Guia rapida del JS
 
-El archivo `scripts/main.js` esta organizado por funciones pequenas:
+El archivo `scripts/main.js` esta organizado por funciones pequeñas:
 
 - `buildIntroTimeline()`: intro inicial.
 - `buildHeroTitleTimeline()`: entrada del titulo principal.
